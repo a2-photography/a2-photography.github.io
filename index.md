@@ -1,4 +1,4 @@
-# HI THERE
+# A2 Photography
 
 ## Welcome to GitHub Pages
 
